@@ -1,1 +1,1 @@
-This directory contains Funcinons and Nestedd Loops
+0x02. C - Functions, nested loops
